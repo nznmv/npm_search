@@ -1,5 +1,6 @@
 {
   "name": "npm_search",
+  "homepage": "https://nznmv.github.io/npm_search",
   "version": "0.1.0",
   "private": true,
   "scripts": {
