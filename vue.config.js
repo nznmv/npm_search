@@ -1,6 +1,6 @@
 module.exports = {
+  publicPath: '/npm_search/',
   "transpileDependencies": [
     "vuetify"
-  ],
-  publicPath: '/npm_search/',
+  ]
 }
