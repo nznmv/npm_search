@@ -1,6 +1,6 @@
 
 # Test task
-## [Demo] (https://nznmv.github.io/npm_search/)
+## [Demo](https://nznmv.github.io/npm_search/)
 
 ## Task
 -  Главная страница:
